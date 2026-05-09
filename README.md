@@ -111,8 +111,8 @@ If you wish to support us, here are some of the ways you can!
 > Menu connects to wss://menu.seralyth.software for friend system and administrative purposes.<br>
 > The donate, search, star and speak symbols are provided from [Icons8](https://icons8.com).
 
-> Seralyth Menu  README.md<br>
-> A community driven mod menu for Gorilla Tag with over 1000+ mods
+> Nexor Menu  README.md<br>
+> A community driven mod menu for Gorilla Tag with over 2k+ mods
 >
 > Copyright (C) 2026  Nexor Software
 > 

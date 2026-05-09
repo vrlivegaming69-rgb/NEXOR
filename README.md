@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="#"><img src="Resources/GitHub/icon-transparent.png" width="130"></a><a href="#"><img src="Resources/GitHub/title.png" width="500"></a>
-</p>
-
----
 
 ---
 

@@ -12,10 +12,10 @@
 
 ---
 
-# Seralyth Menu  
-<sub>Forked from ii's Stupid Menu</sub>
+# Nexor Menu
+<sub>Forked from Seralyth</sub>
 
-Seralyth Menu is a **feature-packed** mod menu for Gorilla Tag, built by the community, for the community. Whether you just want mods, are a developer, or anything inbetween, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
+Nexor Menu is a **feature-packed** mod menu for Gorilla Tag, built by the community, for the community. Whether you just want mods, are a developer, or anything inbetween, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
 
 <details>
   <summary><b>💡 Why open-source?</b></summary>
@@ -46,13 +46,13 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 <details>
   <summary><b>💾 Installation</b></summary>
 	
-1. **Download** the latest release **[here](https://github.com/Seralyth/Seralyth-Menu/releases/latest)**
+1. **Download** the latest release **[here](NTH)**
 2. **Drag & Drop** `Seralyth-Menu.dll` into your plugins folder  
 3. **Launch** Gorilla Tag and enjoy!
 
 **🧱 From Source Code (for developers!)**
 
-1. Download the source code **[here](https://github.com/Seralyth/Seralyth-Menu/releases/latest)**
+1. Download the source code **[here]NTH**
 2. Edit `Directory.Build.props` and update `<GamePath>` if your Gorilla Tag is in a custom spot
 3. Build the project with `Ctrl + Shift + B`<Br>
 ✅ The DLL will automatically go into your Gorilla Tag plugins folder
@@ -100,7 +100,7 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 <details>
   <summary><b>🗣️ Contact Information</b></summary>
 	
-Join our [Discord](https://discord.gg/seralyth)!
+Join our [Discord](https://discord.gg/nexormenu)!
 
 </details>
 
@@ -111,9 +111,6 @@ If you wish to support us, here are some of the ways you can!
 
 | Platform   | Link | Address |
 |------------|------|---------|
-| Ethereum   | [![ETH](https://img.shields.io/badge/Ethereum-Donate-blue?style=for-the-badge&logo=ethereum)](ethereum:0xc14846DF02f45D02a3A5750B21e6e1533ab129Dd) | [0xc14846DF02f45D02a3A5750B21e6e1533ab129Dd](ethereum:0xc14846DF02f45D02a3A5750B21e6e1533ab129Dd) |
-| Litecoin   | [![LTC](https://img.shields.io/badge/Litecoin-Donate-lightgrey?style=for-the-badge&logo=litecoin)](litecoin:Ld5c7DVKgq7EnCLJs6DhwHi8eLhPYGQtC9) | [Ld5c7DVKgq7EnCLJs6DhwHi8eLhPYGQtC9](litecoin:Ld5c7DVKgq7EnCLJs6DhwHi8eLhPYGQtC9) |
-| Patreon    | [![Patreon](https://img.shields.io/badge/Patreon-Seralyth-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/Seralyth) | [Seralyth](https://www.patreon.com/Seralyth) |
 
 </details>
 
@@ -128,10 +125,10 @@ If you wish to support us, here are some of the ways you can!
 > Seralyth Menu  README.md<br>
 > A community driven mod menu for Gorilla Tag with over 1000+ mods
 >
-> Copyright (C) 2026  Seralyth Software
-> https://github.com/Seralyth/Seralyth-Menu
+> Copyright (C) 2026  Nexor Software
 > 
-> This program is free software: you can redistribute it and/or modify
+> 
+> This program is PAID software: you can redistribute it and/or modify
 > it under the terms of the GNU General Public License as published by
 > the Free Software Foundation, either version 3 of the License, or
 > (at your option) any later version.
